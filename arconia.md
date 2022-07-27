@@ -34,30 +34,31 @@ People still worship the dragons and a variety of lesser gods. Each kingdom has 
 # Selenine Governments
 
 **Kingdom of Bayeux (Maretian Dynasty Currently Charles VII)**
-    - Capital of Marche
-    - Calvados Du Roc
-    - Cologne
+- Capital of Marche
+- Calvados Du Roc
+- Cologne
 
 **Kingdom of Armangac (Queen Theodosia II)**
-    - Capital of Highclere
-    - Oswestry
-    - Montford
-    - Anchorhead
+- Capital of Highclere
+- Oswestry
+- Montford
+- Anchorhead
 
 **Maelor Deeprealm (Unterqueen Angharad)**
-    - Maelor City
-    *- Unterreich Brymnir*
-        - Thuringia
+- Maelor City
+*- Unterreich Brymnir*
+    - Thuringia
 
 **Weiland Confederacy (Federal Assembly of 4 member states)**
-    *- The Low Kingdom (Duchy of Darmstadt)*
-        - Heilbad
-    *- Duchy of Lorainne*
-        - Maximburg
-    *- Duchy of Hesse*
-        - Soest-Reis
-    *- Duchy of Eichenwald*
-        - Waldeck
+*- The Low Kingdom (Duchy of Darmstadt)*
+    - Heilbad
+*- Duchy of Lorainne*
+    - Maximburg
+*- Duchy of Hesse*
+    - Soest-Reis
+*- Duchy of Eichenwald*
+    - Waldeck
+
 **Braso-Aquitanian Empire (Emperor-King Krag Dalmatin)**
 - Capital of Kracovia
 - Amstal
