@@ -33,23 +33,23 @@ People still worship the dragons and a variety of lesser gods. Each kingdom has 
 
 # Selenine Governments
 
-**- Kingdom of Bayeux (Maretian Dynasty Currently Charles VII)**
+**Kingdom of Bayeux (Maretian Dynasty Currently Charles VII)**
     - Capital of Marche
     - Calvados Du Roc
     - Cologne
 
-**- Kingdom of Armangac (Queen Theodosia II)**
+**Kingdom of Armangac (Queen Theodosia II)**
     - Capital of Highclere
     - Oswestry
     - Montford
     - Anchorhead
 
-**- Maelor Deeprealm (Unterqueen Angharad)**
+**Maelor Deeprealm (Unterqueen Angharad)**
     - Maelor City
     *- Unterreich Brymnir*
         - Thuringia
 
-**- Weiland Confederacy (Federal Assembly of 4 member states)**
+**Weiland Confederacy (Federal Assembly of 4 member states)**
     *- The Low Kingdom (Duchy of Darmstadt)*
         - Heilbad
     *- Duchy of Lorainne*
@@ -58,35 +58,35 @@ People still worship the dragons and a variety of lesser gods. Each kingdom has 
         - Soest-Reis
     *- Duchy of Eichenwald*
         - Waldeck
-**- Braso-Aquitanian Empire (Emperor-King Krag Dalmatin)**
-    - Capital of Kracovia
-    - Amstal
+**Braso-Aquitanian Empire (Emperor-King Krag Dalmatin)**
+- Capital of Kracovia
+- Amstal
 
-**- States of Innocence (Odoacer the Innocent)**
-    - Basilicum
-    *- Duchy of Benevento*
+**States of Innocence (Odoacer the Innocent)**
+- Basilicum
+*- Duchy of Benevento*
 
 # Anatolic Governments
 
-**- Kuznetsk Syndicate (Worker’s Troika)**
-        - Capital of Mossoveta
+**Kuznetsk Syndicate (Worker’s Troika)**
+- Capital of Mossoveta
 
-**- Valendell Republic (Chancellor Thaelias)**
-    - Kelldale
-    - Parishson
+**Valendell Republic (Chancellor Thaelias)**
+- Kelldale
+- Parishson
 
-**- Principality of Chernigov (Tsar Pyotr III)**
-    - Capital of Khrasnorad
-    - Poltava
-    - Oblast
+**Principality of Chernigov (Tsar Pyotr III)**
+- Capital of Khrasnorad
+- Poltava
+- Oblast
 
-**- Bessarabia Caliphate (Caliph Xenobia the Great)**
-    - Capital of Damanhur
-    - Palmyrid
+**Bessarabia Caliphate (Caliph Xenobia the Great)**
+- Capital of Damanhur
+- Palmyrid
 
-**- Kingdom of Bactria (Raja Harshavardhana)**
-    - Capital of Godavari
-    - Kartana
+**Kingdom of Bactria (Raja Harshavardhana)**
+- Capital of Godavari
+- Kartana
 
 # Obu Governments
 
