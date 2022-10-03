@@ -1,6 +1,7 @@
 # The Arcidaemonic Cipher
 
 ## Chapter One - The Death of Agrippa
+### Part 1
 
 Kamo Noritoshi, Gillial Ragno and Johann Metzger each started their day in the city of Highclere. Johann spoke with his business associate Svet "Ten Toes" Yaropolk to try and find more information about Agrippa's absence from the Chapel district.
 

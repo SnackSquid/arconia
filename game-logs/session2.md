@@ -1,6 +1,7 @@
 # The Arcidaemonic Cipher
 
 ## Chapter One - The Death of Agrippa
+### Part 2
 
 The party began their evening together in a pub, determining how to unravel the myster of Agrippa's death. They decided to head to the Monastary to have their items identified by Julia, one of the girls there. Julia is a minor sage, blind but gifted with far sight. She was able to help the party identify the lantern of truesight. She was able to read the ruined pamphet which lead them to engine co 13 as the creator of the zombies.
 
